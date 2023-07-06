@@ -1,8 +1,7 @@
-package org.example;
+package challenges.linkedList;
 
 public class Main {
     public static void main(String[] args) {
-
 
     }
 }
